@@ -1,4 +1,4 @@
-# -calculator
+# Java Calculator
 A basic  calculator to help newbies understand the basics of 
 
 ###  Code Explained
