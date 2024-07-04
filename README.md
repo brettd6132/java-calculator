@@ -1,8 +1,8 @@
 # Java Calculator
-A basic  calculator to help newbies understand the basics of 
+A basic  calculator to help newbies understand the basics of java programming.
 
 ###  Code Explained
-
+caclulator.java
 ```
 public class Calculator {
 ``` 
@@ -49,6 +49,7 @@ public class Calculator {
 - `if (b == 0) { throw new IllegalArgumentException("Cannot divide by zero!"); }` checks if b is zero. If true, it throws an IllegalArgumentException with an error message.
 - `return (double) a / b;` divides a by b, casting a to double to ensure the result is a double (for accurate decimal division).
 
+main.java
 ```
 import .util.Scanner;
 ```
